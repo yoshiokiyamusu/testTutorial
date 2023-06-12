@@ -1,0 +1,16 @@
+Flask
+flask-sqlalchemy 
+flask-marshmallow 
+marshmallow-sqlalchemy 
+pymysql
+pandas==1.2.5
+requests
+jsonify
+SQLAlchemy
+Marshmallow
+mysqlclient
+flask-smorest
+python-dotenv
+flask-jwt-extended
+passlib
+flask-migrate
